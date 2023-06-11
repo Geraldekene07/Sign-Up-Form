@@ -69,8 +69,9 @@ input::placeholder {
 }
 
 input[type="tel"] {
-  padding-left: 50px;
+  padding-left: 60px;
 }
+
 .toolkit-con {
   position: relative;
 }
@@ -89,7 +90,7 @@ input[type="tel"] {
   display: grid;
   place-content: center;
   height: 40px;
-  padding: 5px;
+  padding: 10px;
   border: none;
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
