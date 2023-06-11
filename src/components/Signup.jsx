@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import { Modal, Button } from "react-bootstrap";
 import mobileImg from "../assets/mobile/image 4.png";
 
+//read me has been deleted
+
 const Signup = () => {
   const initialState = {
     firstName: "",
